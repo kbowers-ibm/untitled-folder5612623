@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <definitions xmlns="https://www.omg.org/spec/DMN/20230324/MODEL/" expressionLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/" namespace="https://kie.org/dmn/_0220AE73-099A-48BA-80AA-94C4C0003B44" id="_8780CE18-6DC4-4D2F-AE2D-A167BFF35ED9" name="DMN_6256CED7-694C-426E-AAA0-BEF7FCB69B29" xmlns:dmndi="https://www.omg.org/spec/DMN/20230324/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="https://kie.org/dmn/extensions/1.0">
-  <decision name="c" id="_D842351B-8ECE-4AF4-BB5A-16EF4D54A801">
-    <variable name="c" id="_22185753-B02E-4C1D-9FDA-C92B2B22B369" />
+  <decision name="asd" id="_D842351B-8ECE-4AF4-BB5A-16EF4D54A801">
+    <variable name="asd" id="_22185753-B02E-4C1D-9FDA-C92B2B22B369" />
   </decision>
   <dmndi:DMNDI>
     <dmndi:DMNDiagram id="_D5653DA8-3356-4333-91A1-E9E4BF5CF05C" name="Default DRD" useAlternativeInputDataShape="false">
